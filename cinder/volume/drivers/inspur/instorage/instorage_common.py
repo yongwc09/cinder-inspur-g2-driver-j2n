@@ -20,7 +20,7 @@ import re
 import time
 import unicodedata
 
-DRIVER_RUN_VERSION = 'KLMN' # from K to N
+DRIVER_RUN_VERSION = 'JUNO'
 
 # TODO !!!ATTENTION
 # the openstack common package is move out from project
